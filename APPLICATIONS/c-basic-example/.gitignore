@@ -12,10 +12,6 @@
 *.map
 *.exp
 
-.DS_Store
-*.DS_Store
-*/..DS_Store
-
 # Precompiled Headers
 *.gch
 *.pch
